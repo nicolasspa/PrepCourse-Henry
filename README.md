@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio en la nube y clonarlo desde github a mi escritorio local 
+Este proyecto es una prueba para clonar un repositorio
